@@ -43,7 +43,7 @@
 - [Foundry/Forge](https://github.com/foundry-rs/foundry#installation)
   - Should be able to run `forge --version` if done correctly
 ### Installation
-`git clone https://github.com/ArcStreetCapital/governance-contracts.git`\
+`git clone https://github.com/Leonard-Pat/proxy-voting.git`\
 `cd governance-contracts`
 `forge install` - this installs all necessary dependencies. 
 

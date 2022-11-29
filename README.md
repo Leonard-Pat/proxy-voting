@@ -35,7 +35,7 @@
 - Foundry - version 0.2.0
 
 ## Documentation 
-- Full documentation will be provided upon project completion in form of a notion page
+- Can be found [here](https://honeysuckle-allspice-948.notion.site/ca4e6b04886e4b6bbd5537515a434ff6?v=9f192a654c5f49de91b942089df0cd20)
 
 ## Setup
 ### Requirements 
